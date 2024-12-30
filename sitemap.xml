@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/activity</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/issues</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/pulls</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/security</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/blob/main/README.md</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/blob/main/index.html</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/blob/main/styles.css</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/releases</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/search?q=repo%3Aalfajri2305%2Falfajriuym++language%3AHTML</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/search?q=repo%3Aalfajri2305%2Falfajriuym++language%3ACSS</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/labels</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/caches</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542475600</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542474183</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542446858</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542437935</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542414450</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542359491</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542309052</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12541846397</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/labels?sort=name-asc</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/labels?sort=name-desc</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/labels?sort=count-desc</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/labels?sort=count-asc</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/labels/bug</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/labels/documentation</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/labels/duplicate</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/labels/enhancement</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/labels/good%20first%20issue</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/labels/help%20wanted</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/labels/invalid</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/labels/question</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/labels/wontfix</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?state=open</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?state=closed</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542475600/job/34972292043</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542475600/job/34972298797</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542475600/job/34972298801</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542475600/usage</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/commit/fcaaaf2cada51f53f75050bf6f5dcf8fe48b9f73</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542474183/job/34972288459</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542474183/job/34972291995</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542474183/job/34972291998</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542474183/usage</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/commit/68a157de9b52fe8c9c3d8b578fd58ca56302a8c9</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542446858/job/34972230973</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542446858/job/34972238301</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542446858/job/34972238286</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542446858/usage</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/commit/e55ede2349c78b938c5b31b5ab14562f7965b197</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542437935/job/34972209513</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542437935/job/34972216327</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542437935/job/34972216326</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542437935/usage</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/commit/1be6e31fe6be8d5dd670ee30cd25999a165068f8</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542414450/job/34972159014</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542414450/job/34972166143</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542414450/job/34972166131</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542414450/usage</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/commit/644ebb8119be230fed24f73319c4006d5509b9f3</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542359491/job/34972042149</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542359491/job/34972047725</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542359491/job/34972047730</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542359491/usage</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/commit/4c2d79850eff9c60d76383a0dbeef7baf3b192c9</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542309052/job/34971938552</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542309052/job/34971947945</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542309052/job/34971947944</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12542309052/usage</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/commit/a75054e680978deb7c4ec7edbbb79550706daec6</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12541846397/job/34970895735</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12541846397/job/34970901820</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12541846397/job/34970901818</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/actions/runs/12541846397/usage</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/commit/a2815f29f57af1f18e28ede167092dbf4eef6e64</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/alfajri2305/alfajriuym/commit/49f641a59be07d18258eb0c3aa50d8eed483049b</loc>
+  <lastmod>2024-12-30T06:17:47+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
